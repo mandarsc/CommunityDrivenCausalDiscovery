@@ -1,3 +1,6 @@
+# Author: Mandar Chaudhary (mschaudh@ncsu.edu)
+# PhD student at NC State Univeristy, USA
+
 library(bnlearn)
 library(pcalg)
 library(igraph)
